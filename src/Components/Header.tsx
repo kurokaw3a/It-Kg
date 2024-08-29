@@ -42,7 +42,7 @@ const Header: FC = () => {
                 className='hidden sticky top-0 z-[1] transition transform duration-[0.5s] w-[100%] bg-[#FFFFFF] pt-[15px] pb-[15px] font-[PT Sans] md:flex items-center justify-center gap-[100px]'
             >
                 <NavLink to='/'>
-                    <h1 className='font-[Inter] font-[700] text-[30px]'>IT KG</h1>
+                    <h1 className='font-[Inter] font-[700] text-[30px]'>Website</h1>
                 </NavLink>
                 <nav className='md:flex gap-[30px] text-[#333333] text-[15px] select-none'>
                     <Dropdown
