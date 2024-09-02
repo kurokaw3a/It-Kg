@@ -104,7 +104,7 @@ const Header: FC = () => {
                 </div>
             </header>
             <header className='md:hidden w-[100%] bg-[#FFFFFF] p-[15px] flex items-center justify-between'>
-                <h1 className='font-[Inter] font-[700] text-[30px]'>IT KG</h1>
+                <h1 className='font-[Inter] font-[700] text-[30px]'>Website</h1>
                 <img
                     onClick={showMenu}
                     className={`w-[35px] transition-all duration-300 ${

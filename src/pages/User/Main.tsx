@@ -26,10 +26,10 @@ const UserMain = () => {
             <section className='bg-[#3D348B] pt-[110px] pb-[100px] md:pt-[113px] md:pb-[133px] text-white md:flex md:items-center md:justify-between pl-[15px] pr-[15px] md:pl-[150px] md:pr-[150px] leading-tight'>
                 <div className='flex flex-col gap-[40px] max-w-[450px]'>
                     <h1 className='text-[35px] md:text-[40px] font-[600]'>
-                        Нефтяная компания Neftchi{' '}
+                       Компания Компания Компания
                     </h1>
                     <p className='max-w-[320px]'>
-                        Нефтяная компания Neftchi - символ мощи и надежности в мире
+                        Компания - символ мощи и надежности в мире
                         энергетики, обеспечивающая стабильное производство и поставку
                         качественной нефти по всему миру, основанный на инновациях,
                         технологиях и экологической ответственности.
@@ -71,7 +71,7 @@ const UserMain = () => {
                     </ScrollAnimation>
                     <ScrollAnimation animateIn='fadeInLeft' animateOnce>
                         <div className='flex flex-col gap-[15px] text-[16px]'>
-                            Компания Neftchi – это ведущий участник нефтяного рынка,
+                            Компания – это ведущий участник нефтяного рынка,
                             специализирующийся на разработке, добыче, переработке и
                             распределении нефтепродуктов. Наша компания, базирующаяся в городе
                             Кочкор-Ате, является ключевым игроком на рынке Центральной Азии и

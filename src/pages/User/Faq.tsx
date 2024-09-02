@@ -9,9 +9,7 @@ const UserFaq = () => {
         <div className='flex flex-col items-center md:gap-[160px] text-[#333333] md:pt-[150px] md:pb-[200px] pt-[40px] pb-[100px] gap-[130px]'>
             <div className='md:flex md:flex-row md:items-start md:gap-[290px] flex flex-col items-center gap-[75px]'>
                 <h1 className='text-[40px] font-[700]'>FAQ</h1>
-                <div className='md:p-0 pl-[15px] pr-[15px]'>
                     <Accordion items={faq} />
-                </div>
             </div>
             <div className='flex flex-col items-center md:gap-[80px] gap-[50px]'>
                 <h1 className='text-[25px] md:text-[40px] font-[700]'>

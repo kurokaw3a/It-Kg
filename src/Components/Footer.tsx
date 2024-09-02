@@ -9,9 +9,9 @@ const Footer: FC = () => {
             <div className='bg-[#464080] flex items-center md:justify-around justify-between p-[20px] pb-[20px] font-[600]'>
                 <address className='flex items-center gap-[20px] text-[16px] not-italic'>
                     <img className='w-[25px]' src={locationIcon} alt='' />
-                    Мед колледж 3 этаж
+                    Адресс
                 </address>
-                <h2 className='text-[30px] font-[Inter]'>Neftchi</h2>
+                <h2 className='text-[30px] font-[Inter]'>Website</h2>
                 <div className='hidden md:flex items-center gap-[30px]'>
                     <div className='flex items-center gap-[20px]'>
                         <img className='w-[20px]' src={phoneIcon} alt='' />

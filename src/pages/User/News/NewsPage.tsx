@@ -23,10 +23,10 @@ const UserNewsPage = () => {
                     />
                 ))}
             </div>
-            <div className='md:hidden block'>
+            <div className='md:hidden'>
                 <Slider
                     {...settings}
-                    className='max-[550px]:max-w-[400px] max-[391px]:max-w-[360px]'
+                    className='w-[400px] max-[391px]:max-w-[360px]'
                 >
                     {newsPage?.images.map((el, i) => (
                         <div key={el}>
